@@ -2,6 +2,13 @@
 
 This is my Assessment 3 (AI Capsule) for CSE3CWA — a full-stack web app to save and manage AI prompts, with proper login, deployed live on the cloud for the demo.
 
+## Live demo
+
+- **App:** https://ai-prompt-manager-td2y.onrender.com
+- **API:** https://ai-prompt-manager-api-j7ha.onrender.com
+
+> Free tier services on Render spin down after 15 minutes of inactivity, so the first load might take 30-60 seconds to wake up.
+
 ## What it does
 
 - Register / login with password hashing (bcrypt) and JWT authentication
